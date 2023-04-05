@@ -1,0 +1,7 @@
+Started by user [8mha:////4OkJK7l20AucACme/JsbyOLg7bbIvMmygwP4S3bgzx8hAAAAmh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZ+/dLi1CL93OSMfCCytAQAAiLndcQAAAA=[0mMartin Chocho
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/my-first-job
+[my-first-job] $ /bin/sh -xe /tmp/jenkins54408784002025872.sh
++ sh /tmp/script.sh Martin Chocho false
+Si quieres ver el nombre, porfavor marca la opción SHOW
+Finished: SUCCESS
