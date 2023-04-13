@@ -17,3 +17,15 @@ chmod 777 script.sh
 sh script.sh Martin Chocho
 ls -l script.sh 
 exit
+ls
+ssh remote_user@remote_host
+ssh remote_user@remote_host
+exit
+ls
+touch remote-key
+sudo touch remote-key
+ls
+exit
+ssh remote_user@remote_host
+exut
+exit

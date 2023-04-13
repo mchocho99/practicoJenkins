@@ -1,8 +1,6 @@
-Started at Wed Apr 05 00:42:24 UTC 2023
+Started at Thu Apr 13 13:01:30 UTC 2023
 Processing my-first-job
 Offering my-first-job to Project Build Discarder
-Finished at Wed Apr 05 00:42:24 UTC 2023. 6ms
-Started at Wed Apr 05 01:42:24 UTC 2023
-Processing my-first-job
-Offering my-first-job to Project Build Discarder
-Finished at Wed Apr 05 01:42:24 UTC 2023. 2ms
+Processing remote-task
+Offering remote-task to Project Build Discarder
+Finished at Thu Apr 13 13:01:30 UTC 2023. 20ms
